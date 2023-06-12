@@ -1,8 +1,8 @@
-Python Basics To Advanced
+### Python Basics To Advanced ###
 
 Variables <br>
-Data types
-Operators
-Control flow statements
-Functions
-Data Structures
+Data types <br>
+Operators <br>
+Control flow statements <br>
+Functions <br>
+Data Structures <br>
