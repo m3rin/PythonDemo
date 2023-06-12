@@ -1,3 +1,8 @@
-# Python Basics to Advanced
+Python Basics To Advanced
 
-print("Hello World")
+Variables
+Data types
+Operators
+Control flow statements
+Functions
+Data Structures
