@@ -1,6 +1,6 @@
 Python Basics To Advanced
 
-Variables/n
+Variables <br>
 Data types
 Operators
 Control flow statements
